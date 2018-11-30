@@ -1,0 +1,8 @@
+Average Sized Group Size Throughout The Year
+
+Average/other stats distance people are coming from to get to the Ed Center
+
+
+Use hourly rainfall, difference in weather from yesterday,
+and the amount of people who came last time as variables in your
+dataframe.

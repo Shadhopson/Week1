@@ -1,0 +1,19 @@
+Strong Trends From Basic Graphs:
+
+Ratio of 11201 to visitors from elsewhere 
+goes down in the summer and peaks in the winter
+This is true for all days of the week
+
+Returns are pretty steady throughout the year
+
+New Visitors Drop lower in the winter, and rise in the summer
+
+More people from 11201 visit on the weekdays than the
+weekends. Possibly seeing a slight decrease in attendance
+on weekends over time, but uncertain.
+
+The amount of visitors looks to be a little lower
+this year. Visitors dropped in the winter. Fairly
+steady at other times
+
+A map of zipcodes served?

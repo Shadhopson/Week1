@@ -1,0 +1,44 @@
+=================================
+Getting Your Data Sets!
+=================================
+Welcome_Table_All_Dates_All_Data:
+The base data for open hours
+Data_And_Data_Creation -> Welcome_Table_All_Dates_All_Data
+which is manually updated
+This give the date, zip code, # of people in the group, # of new people,
+# of people returning, the recorded temperature, and Weather
+
+All values are put in by us folks, so there's bound to be some errors, and some
+places where the data is just incomplete, so we work with that.
+
+-------------------------------------------------
+Get_weather_data:
+
+To give more consistency in our weather data, and perhaps retrieve more info then
+we'd otherwise have we grab weather data from the darksky.net api, and save it to
+past_weather.json
+
+(Takes a long time to run, it would be nice if we could do a check for what needs
+to be grabbed and simply adding it on)
+------------------------------------------------------------------------
+
+make_full_csv:
+In order to make the data easier to work with we can run make_full_csv, which takes
+Welcome_Table_All_Dates_All_Data and sums it all together and adds on the additional weather
+data from from past_weather.json
+
+This gives us advanced_welcome_table_summed.csv
+
+--------------------------------------------------------------------------
+
+ExpandedDummySummedCSVCreator:
+If you want dummy variables for year, day, and month so they can be variables 
+more easily you can use this program to take advanced_welcome_table_summed.csv
+and create expanded_dummied_welcome_table_summed.csv
+
+===================================
+
+Doing Data Analysis:
+
+Basic Graphs:
+Just graphs of pre-existing features
