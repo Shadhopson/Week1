@@ -22,7 +22,7 @@ past_weather.json
 to be grabbed and simply adding it on)
 ------------------------------------------------------------------------
 
-make_full_csv:
+make_avanced_welcome_table_summed:
 In order to make the data easier to work with we can run make_full_csv, which takes
 Welcome_Table_All_Dates_All_Data and sums it all together and adds on the additional weather
 data from from past_weather.json
